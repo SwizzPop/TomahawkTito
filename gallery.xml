@@ -13,11 +13,16 @@
 -->
 <gallery>
   <item>
-    <src>media/example-yard.svg</src>
-    <caption>Example photo. Put your file in media/ and change src to match it.</caption>
+    <src>media/sleep_with_older_brother.jpg</src>
+    <caption>Happy to snuggle in bed with his older brother.</caption>
   </item>
   <item>
-    <src>media/example-closeup.svg</src>
+    <src>media/good_walking_buddy.mp4</src>
+    <caption>Almost no leash pulling..</caption>
+  </item>
+  <item>
+    <src>media/all_the_wrestling.mp4</src>
+    <caption>Do I mess with the older brother, the big brown down, or DONUT.</caption>
   </item>
   <!--
   <item>
