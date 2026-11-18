@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Example yard photo">
+  <rect width="900" height="1100" fill="#d7c4a4"/>
+  <rect y="620" width="900" height="480" fill="#7d8f62"/>
+  <circle cx="690" cy="210" r="78" fill="#f2d48a"/>
+  <ellipse cx="450" cy="760" rx="150" ry="78" fill="#5d4a3a"/>
+  <circle cx="610" cy="690" r="70" fill="#6b5340"/>
+  <ellipse cx="655" cy="640" rx="22" ry="34" fill="#6b5340"/>
+  <ellipse cx="575" cy="638" rx="20" ry="32" fill="#6b5340"/>
+  <circle cx="632" cy="688" r="7" fill="#2b211b"/>
+  <circle cx="588" cy="688" r="7" fill="#2b211b"/>
+  <ellipse cx="610" cy="712" rx="16" ry="10" fill="#3a2c24"/>
+  <text x="450" y="980" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#2b211b">Example photo</text>
+</svg>

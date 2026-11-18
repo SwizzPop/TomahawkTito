@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Add one <item> for each photo or video. Order here is the order on the page.
+
+  <src>      Required. A path in this project, such as media/yard.jpg,
+             or a full https URL.
+  <caption>  Optional. Omit the whole element when you do not want a caption.
+
+  Pictures: jpg, jpeg, png, gif, webp, avif, svg
+  Videos:   mp4, webm, ogv, ogg, mov, m4v
+
+  Write & as &amp; and < as &lt; inside a caption.
+-->
+<gallery>
+  <item>
+    <src>media/example-yard.svg</src>
+    <caption>Example photo. Put your file in media/ and change src to match it.</caption>
+  </item>
+  <item>
+    <src>media/example-closeup.svg</src>
+  </item>
+  <!--
+  <item>
+    <src>media/playing.mp4</src>
+    <caption>A video uses the same two fields.</caption>
+  </item>
+  -->
+</gallery>
