@@ -243,10 +243,19 @@ main {
 }
 
 .adoption-note {
-  max-width: 40rem;
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  max-width: 46rem;
   margin: 1.15rem 0 0;
   font-size: 0.98rem;
   line-height: 1.5;
+}
+
+.adoption-note img {
+  width: 4.25rem;
+  height: 4.25rem;
+  flex: 0 0 auto;
 }
 
 @media (hover: hover) and (pointer: fine) {
