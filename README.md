@@ -11,6 +11,14 @@ Edit `gallery.xml`. Each `<item>` has two fields:
 
 Put new files in `media/`, then point `<src>` at them, for example `media/yard.jpg`.
 
+## Update the supply list
+
+Edit `supplies.xml`. Each `<item>` has:
+
+- `<link>` — the page to open
+- `<description>` — optional text
+- `<image>` — optional picture
+
 ## Publish
 
 Push this folder to GitHub, then in the repository open Settings, Pages, and set the source to the `main` branch and the root folder.

@@ -221,6 +221,7 @@ function startAutoScroll() {
 }
 
 window.addEventListener("wheel", (event) => {
+  if (!(event.target instanceof Element) || !event.target.closest("#ribbon")) return;
   if (ribbon.scrollWidth <= ribbon.clientWidth) return;
   const absX = Math.abs(event.deltaX);
   const absY = Math.abs(event.deltaY);

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  supplies.xml — things to have ready before adopting.
+
+  <link>         Required. Where the link in the table goes.
+  <description>  Optional. The text shown for that item.
+  <image>        Optional. A picture in this project, such as media/supplies/leash.jpg,
+                 or a full https URL.
+
+  Write & as &amp; and < as &lt;.
+-->
+<supplies>
+  <item>
+    <link>https://www.amazon.com/dp/B0CJC74TSG/</link>
+    <description>Joytale no-pull harness for a medium dog. Orange, padded, and adjustable, with a front clip and a grab handle.</description>
+    <image>media/supplies/joytale-harness.jpg</image>
+  </item>
+  <item>
+    <link>https://www.amazon.com/JEWOSTER-Heavy-Duty-Dog-Leash/dp/B08DCCGNZN/</link>
+    <description>JEWOSTER 6-foot heavy-duty leash with two padded handles, including a shorter traffic handle for extra control.</description>
+    <image>media/supplies/jewoster-leash.jpg</image>
+  </item>
+  <item>
+    <link>https://www.amazon.com/Pack-Small-Squeaky-Squeakers-Puppies/dp/B094VGVY2G</link>
+    <description>A 27-pack of small plush squeaky toys in lots of shapes, sized for a puppy.</description>
+    <image>media/supplies/squeaky-toys.jpg</image>
+  </item>
+</supplies>
